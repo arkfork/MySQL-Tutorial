@@ -36,7 +36,7 @@ RDBMS 即关系数据库管理系统(Relational Database Management System)的�
 
 5.若干的表单(table)组成数据库(database)
 
-<img src="image/mysql1.2.png" style="zoom:50%;" /> 
+<img src="image/mysql1.2.png" width="20" /> 
 
 
 
