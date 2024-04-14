@@ -26,15 +26,15 @@ MySQL是一个流行的开源关系型数据库管理系统，由Michael Wideniu
 
 RDBMS 即关系数据库管理系统(Relational Database Management System)的特点：
 
-1.数据以表格(table)的形式出现
+1. 数据以表格(table)的形式出现
 
-2.每行为各种记录名称
+2. 每行为各种记录名称
 
-3.每列(column)为记录名称所对应的数据域
+3. 每列(column)为记录名称所对应的数据域
 
-4.许多的行和列组成一张表单(table)
+4. 许多的行和列组成一张表单(table)
 
-5.若干的表单(table)组成数据库(database)
+5. 若干的表单(table)组成数据库(database)
 
 数据库管理系统基本关系如下图所示:
 
