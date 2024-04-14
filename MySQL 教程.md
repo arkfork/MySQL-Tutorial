@@ -38,10 +38,8 @@ RDBMS 即关系数据库管理系统(Relational Database Management System)的�
 
 数据库管理系统基本关系如下图所示:
 
-<div align=center><img src="image/mysql1.2.png" width="60%" />
+<img src="image/mysql1.2.png" width="60%" />
 
-
-若干数据库都在数据库管理系统中，而若干表单存在于数据库之下，数据库和表单的关系就如同文件夹和文件一般
 
 
 
