@@ -6,9 +6,9 @@
 
 <img src="image/mysql1.1.png" width="15%" /> 
 
-MySQL 是最流行的关系型数据库管理系统，在 WEB 应用方面 MySQL 是最好的 RDBMS(Relational Database Management System：关系数据库管理系统)应用软件之一。
+MySQL是一个流行的开源关系型数据库管理系统，由Michael Widenius等人于1994年创建。它在Web应用程序领域得到了广泛应用。MySQL的发展历程包括开源发布、持续发展、被Sun Microsystems和后来被Oracle收购。MySQL分为社区版和企业版，仍然是许多开发者和企业的首选数据库之一。在 WEB 应用方面 MySQL 是最好的 RDBMS(Relational Database Management System：关系数据库管理系统)应用软件之一。
 
-在本教程中，会让大家快速掌握 MySQL 的基本知识，并轻松使用 MySQL 数据库。
+在本教程中，会带大家大家快速掌握 MySQL 的基本知识，并轻松使用 MySQL 数据库。
 
 ---
 
