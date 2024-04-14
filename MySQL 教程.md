@@ -35,6 +35,7 @@ RDBMS 即关系数据库管理系统(Relational Database Management System)的�
 4.许多的行和列组成一张表单
 
 5.若干的表单组成database
+
 <img src="image/mysql1.2.png" style="zoom:50%;" /> 
 
 
