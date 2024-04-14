@@ -4,7 +4,7 @@
 
 #### 第一课——初识mysql
 
-<img src="image/mysql1.1.png" style="zoom:50%;" /> 
+<img src="image/mysql1.1.png" width="15%" /> 
 
 MySQL 是最流行的关系型数据库管理系统，在 WEB 应用方面 MySQL 是最好的 RDBMS(Relational Database Management System：关系数据库管理系统)应用软件之一。
 
